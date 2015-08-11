@@ -4,7 +4,7 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 510,                             
   // - Displayed in the navbar
-  app_name: 'Aleatorium',
+  app_name: 'Miklagard',
 
   recaptcha_sitekey: '6LcN8woTAAAAAI_8kfZsHhYIQQVZmUqQvT7rBDpN',
   redirect_uri: 'https://untitled-dice.github.io',
